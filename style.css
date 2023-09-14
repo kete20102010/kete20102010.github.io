@@ -60,7 +60,7 @@ h2 {
 .features p {
   display: inline-block;
   vertical-align: top;
-  width: 30%;
+  width: 22.4%;
   margin: 0 5px;
   background-repeat: no-repeat;
   background-position: center top;
@@ -84,7 +84,7 @@ h2 {
 
 .feature-dishes {
   padding-top: 65px;
-  background-image: url("img/svg-editor-image(1).svg");
+  background-image: url("img/svg-editor-image.svg");
 }
 .advantages {
   width: 510px;
